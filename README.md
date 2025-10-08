@@ -1,6 +1,3 @@
-# AI
-Moguring
-
 MoguMogu - AI 기반 공동구매 추천 플랫폼
 
 <!-- 필요하면 로고 이미지 경로 추가 -->
@@ -122,5 +119,4 @@ Windows 환경 기준 경로 설정 (C:\dev\agent\더미데이터2000명)
 GitHub 저장소: https://github.com/ai-sesac2-Nbbang/AI
 
 문의: sesac2@ai.com
-
  (예시)
